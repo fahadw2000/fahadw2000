@@ -1,6 +1,6 @@
 # Fahad Wahab
 
-Conversational AI & LLM Systems Engineer  
+AI & LLM Systems Engineer  
 Building end-to-end AI systems with RAG, structured prompt engineering, and real-time deployment.
 
 ## Focus
