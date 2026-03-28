@@ -1,4 +1,7 @@
 # Fahad Wahab
+📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadwahab) · [Portfolio](https://fahadw2000.github.io)
+
+
 
 **AI Engineer** · Erlangen, Germany  
 Building production-ready AI systems — LLMs, RAG pipelines, and real-time computer vision deployed on physical hardware and robots.
@@ -45,8 +48,3 @@ Focused on work that functions outside a notebook: deployment, latency, real har
 ## Languages
 
 🇬🇧 English (C1) · 🇩🇪 German (B1) · 🇵🇰 Urdu (Native)
-
----
-
-📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadwahab) · [Portfolio](https://fahadw2000.github.io)
-
