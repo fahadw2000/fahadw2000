@@ -17,9 +17,9 @@ Sub-100ms FAISS retrieval · Docker · CI/CD · Human-Robot Interaction
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [LLM Job Intelligence Pipeline](https://github.com/fahadw2000/llm-job-intelligence-pipeline) | Event-driven LLM scoring pipeline with structured JSON output | LLM · n8n · Prompt Engineering |
-| [Sleep State Detection · Watch Demo ↗](https://youtu.be/-VNeAWUAdok) | Dual MobileNet classifiers (eye + mouth) at 95%+ accuracy, 15 FPS real-time | PyTorch · MTCNN · dlib · OpenCV |
 | Conversational AI with RAG *(thesis · in progress)* | End-to-end agentic pipeline on social robot via ROS + Jetson | LLM · RAG · FAISS · ROS · Docker |
+| [Sleep State Detection · Watch Demo ↗](https://youtu.be/-VNeAWUAdok) | Dual MobileNet classifiers (eye + mouth) at 95%+ accuracy, 15 FPS real-time | PyTorch · MTCNN · dlib · OpenCV |
+| [LLM Job Intelligence Pipeline](https://github.com/fahadw2000/llm-job-intelligence-pipeline) | Event-driven LLM scoring pipeline with structured JSON output | LLM · n8n · Prompt Engineering |
 
 ---
 
@@ -45,6 +45,10 @@ Focused on work that functions outside a notebook: deployment, latency, real har
 ## Languages
 
 🇬🇧 English (C1) · 🇩🇪 German (B1) · 🇵🇰 Urdu (Native)
+
+---
+
+📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadwahab) · [Portfolio](https://fahadw2000.github.io)
 
 ---
 
