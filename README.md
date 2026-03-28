@@ -50,6 +50,3 @@ Focused on work that functions outside a notebook: deployment, latency, real har
 
 📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadwahab) · [Portfolio](https://fahadw2000.github.io)
 
----
-
-📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadwahab) · [Portfolio](https://fahadw2000.github.io)
