@@ -1,5 +1,5 @@
 # Fahad Wahab
-📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadwahab) · [Portfolio](https://fahadw2000.github.io)
+📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadw2000) · [Portfolio](https://fahadw2000.github.io)
 
 
 
