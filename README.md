@@ -47,4 +47,4 @@ Focused on work that functions outside a notebook: deployment, latency, real har
 
 ## Languages
 
-🇬🇧 English (C1) · 🇩🇪 German (B1) · 🇵🇰 Urdu (Native)
+🇬🇧 English (C1) · 🇩🇪 German (B1) 
