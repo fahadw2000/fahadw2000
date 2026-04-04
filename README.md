@@ -21,10 +21,12 @@ Multi-domain dialogue routing · Docker · Human-Robot Interaction
 ---
 
 ## Stack
+'''
 LLMs & RAG     LLaMA · LangChain · FAISS · Chroma · Prompt Engineering
 Frameworks     PyTorch · TensorFlow · OpenCV · scikit-learn
 Robotics       ROS · NVIDIA Jetson · Edge Inference
 Tools          Python · Docker · Git · n8n · CI/CD
+'''
 ---
 
 ## Background
