@@ -1,50 +1,38 @@
 # Fahad Wahab
 📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadw2000) · [Portfolio](https://fahadw2000.github.io)
-
-
-
 **AI Engineer** · Erlangen, Germany  
-Building production-ready AI systems — LLMs, RAG pipelines, and real-time computer vision deployed on physical hardware and robots.
+Building production-ready AI systems — LLMs, RAG pipelines, and real-time deployment on edge hardware and social robots.
 
 ---
 
 ## Current Work
-
-**Master's Thesis** — Conversational AI with RAG on a Social Robot  
-Modular pipeline: STT → Llama 8B (NLU + RAG) → TTS, deployed via ROS on NVIDIA Jetson.  
-Sub-100ms FAISS retrieval · Docker · CI/CD · Human-Robot Interaction
+**Master's Thesis** — Edge-to-Cloud Conversational AI on a Social Robot  
+Modular pipeline: Whisper STT → LLaMA (intent detection + RAG) → Piper TTS, deployed via ROS on NVIDIA Jetson.  
+Multi-domain dialogue routing · Docker · Human-Robot Interaction
 
 ---
 
 ## Projects
-
 | Project | Description | Stack |
 |---------|-------------|-------|
-| Conversational AI with RAG *(thesis · in progress)* | End-to-end agentic pipeline on social robot via ROS + Jetson | LLM · RAG · FAISS · ROS · Docker |
-| [Sleep State Detection · Watch Demo ↗](https://youtu.be/-VNeAWUAdok) | Dual MobileNet classifiers (eye + mouth) at 95%+ accuracy, 15 FPS real-time | PyTorch · MTCNN · dlib · OpenCV |
-| [LLM Job Intelligence Pipeline](https://github.com/fahadw2000/llm-job-intelligence-pipeline) | Event-driven LLM scoring pipeline with structured JSON output | LLM · n8n · Prompt Engineering |
+| Conversational AI with RAG *(thesis · in progress)* | Edge-to-cloud conversational pipeline on social robot via ROS + Jetson | LLaMA · Whisper · Piper · RAG · FAISS · ROS · Docker |
+| [Non-Contact Infant Sleep Monitoring · Watch Demo ↗](https://youtu.be/-VNeAWUAdok) | Dual MobileNet classifiers (eye F1: 0.99, mouth F1: 0.97) at 15 FPS — IEEE ARSO 2026 | PyTorch · MobileNet · MTCNN · dlib · OpenCV |
 
 ---
 
 ## Stack
-
-```
-LLMs & RAG     Llama · LangChain · FAISS · Chroma · Prompt Engineering
+LLMs & RAG     LLaMA · LangChain · FAISS · Chroma · Prompt Engineering
 Frameworks     PyTorch · TensorFlow · OpenCV · scikit-learn
 Robotics       ROS · NVIDIA Jetson · Edge Inference
 Tools          Python · Docker · Git · n8n · CI/CD
-```
-
 ---
 
 ## Background
-
 Mechanical Engineering → AI.  
-Led a 50-person engineering team before shifting to AI — I think in systems, not just models.  
+Led a team of 50 technicians before shifting to AI — I think in systems, not just models.  
 Focused on work that functions outside a notebook: deployment, latency, real hardware.
 
 ---
 
 ## Languages
-
-🇬🇧 English (C1) · 🇩🇪 German (B1) 
+🇬🇧 English (C1) · 🇩🇪 German (A2, actively developing)
