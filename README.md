@@ -1,7 +1,8 @@
 # Fahad Wahab
 📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadw2000) · [Portfolio](https://fahadw2000.github.io)
 
-**AI Engineer · RAG & LLM Pipelines · Multimodal Systems · Edge Deployment** · Erlangen, Germany  
+**AI Engineer · RAG & LLM Pipelines · Multimodal Systems · Edge Deployment** · 
+Erlangen, Germany  
 Building production-ready AI systems — LLMs, RAG pipelines, and real-time deployment on edge hardware and social robots.
 
 ---
