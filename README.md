@@ -1,6 +1,6 @@
 # Fahad Wahab
-📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadw2000) · [Portfolio](https://fahadw2000.github.io)
-**AI Engineer** · Erlangen, Germany  
+📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadw2000) · [Portfolio](https://fahadw2000.github.io)s
+**AI Engineer · RAG & LLM Pipelines · Multimodal Systems · Edge Deployment** · Erlangen, Germany  
 Building production-ready AI systems — LLMs, RAG pipelines, and real-time deployment on edge hardware and social robots.
 
 ---
@@ -29,9 +29,8 @@ Tools          Python · Docker · Git · n8n · CI/CD
 ~~~
 ---
 
-## Background
-Mechanical Engineering → AI.  
-Led a team of 50 technicians before shifting to AI — I think in systems, not just models.  
+### Background
+Transitioned into AI from a Mechanical Engineering background with 3 years of industry experience.  
 Focused on work that functions outside a notebook: deployment, latency, real hardware.
 
 ---
