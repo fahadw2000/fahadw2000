@@ -22,10 +22,10 @@ Multi-domain dialogue routing · Docker · Human-Robot Interaction · Focus on l
 ---
 
 ## Projects
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Conversational AI with RAG *(thesis · in progress)*](https://github.com/fahadw2000/Conversational_AI) | Real-time edge-to-cloud conversational system for a social robot using ROS + Jetson | LLaMA · Whisper · Piper · RAG · FAISS · ROS · Docker |
-| [Non-Contact Infant Sleep Monitoring]([YOUR_CNN_REPO_L](https://github.com/fahadw2000/Sleep-State-Detection) · 🎥 [Demo](https://youtu.be/-VNeAWUAdok) | Real-time infant sleep detection (~15 FPS) using dual MobileNet models (F1: 0.99 / 0.97) — IEEE ARSO 2026 (accepted) | PyTorch · MobileNet · MTCNN · dlib · OpenCV |
+| Project | Description | Links | Stack |
+|---------|-------------|-------|-------|
+| Conversational AI with RAG *(thesis · in progress)* | Real-time edge-to-cloud conversational system for a social robot using ROS + Jetson | 🔗 [Repo](https://github.com/fahadw2000/Conversational_AI) | LLaMA · Whisper · Piper · RAG · FAISS · ROS · Docker |
+| Non-Contact Infant Sleep Monitoring | Real-time infant sleep detection (~15 FPS) using dual MobileNet models (F1: 0.99 / 0.97) — IEEE ARSO 2026 (accepted) | 🔗 [Repo](https://github.com/fahadw2000/Sleep-State-Detection) · 🎥 [Demo](https://youtu.be/-VNeAWUAdok) | PyTorch · MobileNet · MTCNN · dlib · OpenCV |
 
 
 ---
