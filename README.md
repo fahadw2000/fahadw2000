@@ -1,5 +1,5 @@
 # Fahad Wahab
-**AI Engineer · RAG & LLM Pipelines · Multimodal Systems · Edge Deployment**
+**Applied AI Engineer – Computer Vision & Conversational AI**
 
 Erlangen, Germany · 📧 fahadw2000@gmail.com · [LinkedIn](https://linkedin.com/in/fahadw2000) · [Portfolio](https://fahadw2000.github.io)
 
