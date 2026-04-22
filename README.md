@@ -17,7 +17,6 @@ Building real-time AI systems — LLMs, RAG pipelines, and deployment on edge ha
 ## Current Work
 **Master's Thesis** — Edge-to-Cloud Conversational AI on a Social Robot  
 Modular pipeline: Whisper STT → LLaMA (intent detection + RAG) → Piper TTS, deployed via ROS on NVIDIA Jetson.  
-Multi-domain dialogue routing · Docker · Human-Robot Interaction · Focus on low-latency real-time interaction
 
 ---
 
